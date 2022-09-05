@@ -1,1 +1,3 @@
-
+Angular14
+BootStrap5
+VazirFont
