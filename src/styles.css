@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+/* @font-face {
+    font-family: 'Vazirmatn';
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css') format('truetype');
+} */
+
+body {
+    font-family: Vazirmatn;
+}
